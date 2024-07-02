@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chaosdemon16
+- 👋 Hi, I’m Arlo Gould
 - 👀 I’m interested in Software Developement
 - 🌱 I’m currently learning javascript, C & Python
 - 📫 How to reach me: Arlogould2010@gmail.com
