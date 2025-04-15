@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arlo Gould
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning javascript, C & Python
+- 🌱 I’m currently learning Linux, Javascript, C++ & Python
 - 📫 How to reach me: Arlogould2010@gmail.com
 - 😄 Pronouns: He/Him
 
